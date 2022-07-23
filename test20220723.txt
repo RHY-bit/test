@@ -2,3 +2,4 @@ test
 change test
 change test on hotfix branch
 change test on hotfix branch again
+change test on hot branch third
